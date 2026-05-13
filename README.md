@@ -1,18 +1,30 @@
-# Hi, I'm mljadama 👋
+# 👋 Hey, I'm mljadama
 
-Developer who likes building things — web apps, mobile apps, and whatever else seems interesting.
+Software developer building practical web and mobile products.
 
-I work mostly with **JavaScript / TypeScript**, **React**, **React Native**, and **Node.js**.
+### 🧠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DHIS2_App_Platform-0057B8?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-v6-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
----
+### 📱 Projects
+<p>
+  <a href="https://github.com/mljadama/maternal-health-risk-alert"><strong>Maternal Health Risk Alert</strong></a><br/>
+  DHIS2 web app for automated high-risk pregnancy detection in antenatal care.<br/><br/>
+  <a href="https://github.com/mljadama/mood-sounds"><strong>Mood Sounds</strong></a><br/>
+  Cross-platform mood soundboard built with React Native, Expo, and Supabase.
+</p>
 
-### 🔧 Some things I've built
-
-- [Maternal Health Risk Alert](https://github.com/mljadama/maternal-health-risk-alert) — a DHIS2 web app for automated risk detection in antenatal care
-- [Mood Sounds](https://github.com/mljadama/mood-sounds) — a cross-platform soundboard app built with React Native, Expo, and Supabase
-
----
-
-### 🤝 Open to collaborations
-
-If you're working on something interesting — open source, side projects, or anything in between — feel free to reach out or open an issue.
+### 🤝 Collaboration
+Open to collaborating on meaningful products in health, fintech, and mobile.
