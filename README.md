@@ -1,6 +1,12 @@
 # 👋 Hey, I'm Mola Jados
 
-Software developer building practical web and mobile products.
+Computer Science graduate from the University of The Gambia, building real-world technology products that solve problems across Africa—especially in fintech, mobility, and digital platforms.
+
+I specialize in mobile applications, scalable web systems, and backend APIs.
+
+My goal is to create impactful software used by millions of people. ✨
+
+When I’m not shipping code, I moonlight as a part-time prompt engineer—I like to think my prompts are so good even AI reads them twice.
 
 ### 🧠 Tech Stack
 <p>
