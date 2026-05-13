@@ -1,4 +1,4 @@
-# 👋 Hey, I'm mljadama
+# 👋 Hey, I'm Mola Jados
 
 Software developer building practical web and mobile products.
 
