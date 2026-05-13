@@ -1,6 +1,6 @@
 # Hi, I'm Mola Jados 👋
 
-I build practical digital products for real-world problems in Africa across mobile, web, and backend systems.
+I build practical digital products for real-world problems in Africa, across mobile, web, and backend systems.
 
 ## About
 - 🎓 CS graduate, University of The Gambia
