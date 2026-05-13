@@ -22,12 +22,5 @@ I build practical digital products for real-world problems in Africa, across mob
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-## Featured repositories
-- [maternal-health-risk-alert](https://github.com/mljadama/maternal-health-risk-alert)  
-  DHIS2 web app for automated high-risk pregnancy detection in antenatal care.
-
-- [mood-sounds](https://github.com/mljadama/mood-sounds)  
-  Cross-platform mood soundboard built with React Native, Expo, and Supabase.
-
 ---
 <sub>Always building. Always learning.</sub>
