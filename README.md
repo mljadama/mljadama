@@ -24,7 +24,7 @@ I build practical digital products for real-world problems in Africa — across 
 
 ## Featured repositories
 - [maternal-health-risk-alert](https://github.com/mljadama/maternal-health-risk-alert)  
-  DHIS2 web app for automatic high-risk pregnancy detection in antenatal care.
+  DHIS2 web app for automated high-risk pregnancy detection in antenatal care.
 
 - [mood-sounds](https://github.com/mljadama/mood-sounds)  
   Cross-platform mood soundboard built with React Native, Expo, and Supabase.
