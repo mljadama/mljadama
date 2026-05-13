@@ -41,7 +41,3 @@ I'm a software developer passionate about building impactful digital health tool
 |---|---|---|
 | [Maternal Health Risk Alert](https://github.com/mljadama/maternal-health-risk-alert) | DHIS2 web app for automatic high-risk pregnancy detection in antenatal care | React, DHIS2, TypeScript, Recharts |
 | [Mood Sounds](https://github.com/mljadama/mood-sounds) | Cross-platform mood soundboard app | React Native, Expo, Supabase |
-
----
-
-![mljadama's GitHub stats](https://github-readme-stats.vercel.app/api?username=mljadama&show_icons=true&theme=default&hide_border=true)
