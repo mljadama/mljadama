@@ -37,6 +37,7 @@ I build practical digital products for real-world problems, across mobile, web, 
 </p>
 
 <p>
+  [![Boot.dev Learn Docker certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f39805f7-49f9-4741-9469-2a958ef04ef2.jpeg?v=1786380012)](https://www.boot.dev/certificates/f39805f7-49f9-4741-9469-2a958ef04ef2)
   <b>Currently learning:</b><br/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
