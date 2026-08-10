@@ -44,13 +44,5 @@ I build practical digital products for real-world problems, across mobile, web, 
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
 </p>
 
-## Certificates
-
-<p align="center">
-  <a href="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f39805f7-49f9-4741-9469-2a958ef04ef2.jpeg?v=1786380012">
-    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f39805f7-49f9-4741-9469-2a958ef04ef2.jpeg?v=1786380012" alt="Boot.dev Learn Docker certificate" width="600" />
-  </a>
-</p>
-
 ---
 <sub>Always building. Always learning.</sub>
