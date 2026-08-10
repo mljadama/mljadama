@@ -42,9 +42,14 @@ I build practical digital products for real-world problems, across mobile, web, 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+</p>
 
-    [![Boot.dev Learn Docker certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f39805f7-49f9-4741-9469-2a958ef04ef2.jpeg?v=1786380012)](https://www.boot.dev/certificates/f39805f7-49f9-4741-9469-2a958ef04ef2)
+## Certificates
 
+<p align="center">
+  <a href="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f39805f7-49f9-4741-9469-2a958ef04ef2.jpeg?v=1786380012">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f39805f7-49f9-4741-9469-2a958ef04ef2.jpeg?v=1786380012" alt="Boot.dev Learn Docker certificate" width="600" />
+  </a>
 </p>
 
 ---
